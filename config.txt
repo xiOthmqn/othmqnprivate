@@ -1,0 +1,7 @@
+?token=NTM1NDk1MDA5OTQ0OTkzODA0.DyKG9w.SU1IXrPICWoY4aDIhyjY9p3PmII
+owner=525663843771351046 
+prefix= *
+game=  nu music fo u
+stayinchannel=flase 
+songinstatus=false  
+token=NTM1NDk1MDA5OTQ0OTkzODA0.DyKG9w.SU1IXrPICWoY4aDIhyjY9p3PmII
