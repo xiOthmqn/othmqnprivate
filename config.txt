@@ -1,7 +1,7 @@
 ?token=NTM1NDk1MDA5OTQ0OTkzODA0.DyKG9w.SU1IXrPICWoY4aDIhyjY9p3PmII
 owner=525663843771351046 
 prefix= *
-game=  nu music fo u
+game= hello
 stayinchannel=flase 
-songinstatus=false  
-token=NTM1NDk1MDA5OTQ0OTkzODA0.DyKG9w.SU1IXrPICWoY4aDIhyjY9p3PmII
+songinstatus=true  
+token=NTI1NjYzODQzNzcxMzUxMDQ2.DyH-3w.1DGFO_oQdC6O9ck8r_Yv4n9GByQ
