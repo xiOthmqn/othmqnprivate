@@ -1,6 +1,6 @@
-?token=NTM1NDk1MDA5OTQ0OTkzODA0.DyKG9w.SU1IXrPICWoY4aDIhyjY9p3PmII
+?token=NTI1NjYzODQzNzcxMzUxMDQ2.DyH-3w.1DGFO_oQdC6O9ck8r_Yv4n9GByQ
 owner=525663843771351046 
-prefix= *
+prefix= o
 game= hello
 stayinchannel=flase 
 songinstatus=true  
