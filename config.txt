@@ -1,7 +1,7 @@
-?token=NTI1NjYzODQzNzcxMzUxMDQ2.DyH-3w.1DGFO_oQdC6O9ck8r_Yv4n9GByQ
+?token=NTM1NDk1MDA5OTQ0OTkzODA0.DzXgMw.PzXoTdohWBr8algJ_KKV4GlSD9Y
 owner=525663843771351046 
 prefix= o
-game= hello
+game= <3
 stayinchannel=flase 
 songinstatus=true  
-token=NTI1NjYzODQzNzcxMzUxMDQ2.DyH-3w.1DGFO_oQdC6O9ck8r_Yv4n9GByQ
+token=NTM1NDk1MDA5OTQ0OTkzODA0.DzXgMw.PzXoTdohWBr8algJ_KKV4GlSD9Y
